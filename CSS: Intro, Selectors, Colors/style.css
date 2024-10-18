@@ -1,0 +1,43 @@
+body{
+    background-color: bisque;
+}
+.head {
+    color: darkblue;
+  }
+#bglime {
+    background-color: lime;
+}
+
+.color {
+    color: red;
+}
+
+p{
+    color: brown;
+}
+
+#para {
+    color: green;
+    font-size: x-large;
+    font-family: cursive;
+}
+
+.par {
+    color: black;
+    font-size: x-large;
+}
+
+ul li a .highlight {
+    font-weight: bold;
+    text-decoration: underline;
+    color: red;
+    background-color: yellow;
+}
+
+ol li:nth-child(2) {
+    color: blue;
+}
+
+ol li:nth-child(3) {
+    color: red;
+}
