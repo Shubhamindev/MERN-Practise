@@ -3,5 +3,5 @@ Comprehensive MERN Stack course covering MongoDB, Express.js, React, and Node.js
 
 ## Table of Contents
 1. [HTML](https://github.com/Shubhamindev/Mern-course-by-shubham-thakur/tree/main/Basics%20of%20HTML)
-2. [Css]
-   -[CSS: Intro, Selectors, Colors](https://github.com/Shubhamindev/Mern-course-by-shubham-thakur/tree/main/CSS%3A%20Intro%2C%20Selectors%2C%20Colors)
+2. [CSS]
+   - [CSS: Intro, Selectors, Colors](https://github.com/Shubhamindev/Mern-course-by-shubham-thakur/tree/main/CSS%3A%20Intro%2C%20Selectors%2C%20Colors)
